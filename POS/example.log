@@ -1,0 +1,6 @@
+INFO:root:Running"add" with arguments (3, 4, 5)
+INFO:root:Running"add" with arguments (3, 4)
+INFO:root:Running"add" with arguments (3, 4)
+INFO:root:Running"add" with arguments (3, 5)
+INFO:root:Running"add" with arguments (3, 5)
+INFO:root:Running"add" with arguments (3, 5)
